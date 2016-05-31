@@ -39,7 +39,7 @@ Submit detailed answers to these in this file via a pull request.
     - I would like to have login modules pop up on screen with jQuery and be able to
 
 -   How you will use version control to backup / track your project.
-    - I will regularly
+    - I will regularly make pull requests.
 
 -   Do you plan to attempt any of the bonuses.
     - Yes, if I can get the basic stuff done, then I will.
